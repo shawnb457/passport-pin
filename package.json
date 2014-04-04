@@ -1,27 +1,22 @@
 {
   "name": "passport-local",
   "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "description": "Local pin authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "local",
-    "auth",
-    "authn",
-    "authentication",
-    "username",
-    "password"
+    "pin",
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Shawn Brinkman",
+    "email": "shawnb457@gmail.com"
+   
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/shawnb457/passport-pin.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/shawnb457/passport-pin/issues"
   },
   "licenses": [
     {
